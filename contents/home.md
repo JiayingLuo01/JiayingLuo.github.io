@@ -4,7 +4,6 @@ I'm currently pursuing a Master's degree in XX at the Department of XX, XX Unive
 
 #### Email  
 <code>jluo55@jh.edu</code>  
-<code>XX@XX.XX</code>
 
 #### Education  
 **XX University**, Master of XX (XX – XX)  
